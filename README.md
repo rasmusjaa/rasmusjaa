@@ -1,6 +1,6 @@
 ### Oh hi 👋
 <p>
-I'm a student in Hive Helsinki and have previously worked mostly with front end (WordPress), but looking to expand my skills and hope to work with IoT, AI or VR/AR/XR. I love learning new things, technologies and trends and to try and do unconventional and creative things with different techniques.
+I'm a student in Hive Helsinki and have previously worked mostly with LAMP stack with focus on front end (creating business sites with WordPress and some other webshop CMS platforms), but looking to expand my skills and hope to work with IoT, AI or VR/AR/XR. I love learning new things, technologies and trends and to try and do unconventional and creative things with different techniques.
   </p>
 
 [![forthebadge](https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=flat&logo=facebook)](https://www.facebook.com/rasmus.jaakonmaki/)
