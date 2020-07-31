@@ -1,6 +1,6 @@
 ### Oh hi 👋
 <p>
-I'm a student in Hive Helsinki and have previously worked mostly with LAMP stack with focus on front end (creating business sites with WordPress and some other webshop CMS platforms). In the near future I hope to work with something related to AI, VR/AR/XR, blockchain or IoT/IoE solutions, and right now I’m looking for an internship position to hone my skills next to expert programmers.
+I'm a student in Hive Helsinki (since Oct 2019) and have previously worked mostly with LAMP stack with focus on front end (creating business sites with WordPress and some other webshop CMS platforms). In the near future I hope to work with something related to AI, VR/AR/XR, blockchain or IoT/IoE solutions, and right now I’m looking for an internship position to hone my skills next to expert programmers.
 </p><p>
 I love learning new things, technologies and trends and to try and do unconventional and creative things with different techniques.
 </p>
