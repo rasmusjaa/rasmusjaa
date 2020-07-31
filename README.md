@@ -1,5 +1,5 @@
-<samp>
 ### Oh hi 👋
+<samp>
 <p>
   I'm a student in <a href='https://www.hive.fi/en/'>Hive Helsinki</a> (since Oct 2019) and have previously worked mostly with LAMP stack with focus on front end (creating business sites with WordPress and some other webshop CMS platforms). In the near future I hope to work with something related to AI, VR/AR/XR, blockchain or IoT/IoE solutions, and right now I’m looking for an internship position to hone my skills next to expert programmers.
 </p><p>
