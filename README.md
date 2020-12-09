@@ -7,7 +7,7 @@ I love learning new things, technologies and trends and to try and do unconventi
 </p>
 </samp>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rasmusjaa&show_icons=true&theme=radical&hide=stars)
+![Github stats](https://github-readme-stats.vercel.app/api?username=rasmusjaa&show_icons=true&theme=radical&hide=stars&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasmusjaa&layout=compact)
 
 [![forthebadge](https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=flat&logo=facebook)](https://www.facebook.com/rasmus.jaakonmaki/)
