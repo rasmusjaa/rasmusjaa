@@ -1,7 +1,7 @@
 ### Oh hi 👋
 <samp>
 <p>
-I'm working as a software developer for Teamit in their e-commerce team. I've studied in <a href='https://www.hive.fi/en/'>Hive Helsinki</a> (started Oct 2019) and have previously worked mostly with LAMP stack with focus on front end (creating business sites with WordPress and some other webshop CMS platforms) but have also been studying C, PERN stack and more. I aim to work as a full stack developer, but in the fuuture also with something related to AI, VR/AR/XR, blockchain or IoT/IoE solutions.
+I'm working as a software developer for Teamit in their e-commerce team. I've studied in <a href='https://www.hive.fi/en/'>Hive Helsinki</a> (started Oct 2019) and have previously worked mostly with LAMP stack with focus on front end (creating business sites with WordPress and some other webshop CMS platforms) but have also been studying C, PERN stack and more. I aim to work as a full stack developer, but in the future also with something related to AI, VR/AR/XR, blockchain or IoT/IoE solutions.
 </p><p>
 I love learning new things, technologies and trends and to try and do unconventional and creative things with different techniques.
 </p>
