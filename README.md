@@ -1,7 +1,7 @@
 ### Oh hi 👋
 <samp>
 <p>
-I'm working as a software/full-stack developer in e-commerce. I've studied in <a href='https://www.hive.fi/en/'>Hive Helsinki</a> and have experience in LAMP/LEMP/LOMP stack (creating business sites and webshops with WordPress and other CMS platforms) but have also been studying C, PERN stack and more.
+I'm working as a software/full-stack developer in e-commerce. I've studied in <a href='https://www.hive.fi/en/'>Hive Helsinki</a>.
 </p><p>
 I love learning new things, technologies and trends and to try and do unconventional and creative things with different techniques.
 </p>
