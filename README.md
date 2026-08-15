@@ -1,4 +1,4 @@
-### Oh hi 👋
+### Oh hi!  Didn't see you there. 👋
 <samp>
 <p>
 I work as a software/full-stack developer mostly in e-commerce, but I use a variety of stacks across different projects. Currently building a mobile app with Flutter/Dart + PostgreSQL. I studied at <a href='https://www.hive.fi/en/'>Hive Helsinki</a> right when it opened in 2019. Code I work on daily lives mostly in private GitHub and GitLab repositories, but here are some older projects from Hive and some of my open hobby projects (most of them are private too).
