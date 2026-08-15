@@ -1,9 +1,9 @@
 ### Oh hi 👋
 <samp>
 <p>
-I'm working as a software/full-stack developer in e-commerce. I've studied in <a href='https://www.hive.fi/en/'>Hive Helsinki</a>. Code I work on daily lives mostly in private GitLab repositories, but here are some projects from Hive and some of my hobby projects.
+I'm working as a software/full-stack developer in e-commerce. I've studied in <a href='https://www.hive.fi/en/'>Hive Helsinki</a>. Code I work on daily lives mostly in private GitHub and GitLab repositories, but here are some older projects from Hive and some of my open hobby projects (most of them are private too).
 </p><p>
-I love learning new things, technologies and trends and to try and do unconventional and creative things with different techniques.
+I love learning new things, technologies, and trends, and to try and do unconventional and creative things with different techniques.
 </p>
 </samp>
 
